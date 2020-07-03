@@ -2,6 +2,8 @@
 
 We collect a lot of data from the USPTO. A _lot_ of data. Frequently, however, this data is not as well documented as we might desire. Further, it is often useful to see data in other contexts when examining a new problem. Therefore, we're going to try and create a Wiki in this repository outlining the sundry datasets at our disposal. Gideon has generated an [example page](https://github.com/liegroup-stanford/USPTO_Data_Guide/wiki/Orange-Book) on the Orange Book data to give an idea of what a page could look like. 
 
+Note that eventually all materials from [this](https://github.com/liegroup-stanford/liegroup_notes/wiki/Patent-Data-Resources) page should be integrated, and that page should be deleted.
+
 # What is a Wiki?
 
 ## Concept
